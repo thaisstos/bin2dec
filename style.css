@@ -85,7 +85,8 @@
     width: 100%;
 }
 
-.wrap > footer > div > img {
+.wrap > footer > div img {
+    height: 100%;
     margin-left: 10px;
     margin-right: 10px;
 }
